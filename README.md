@@ -1,4 +1,4 @@
-# Addictive Score Prediction
+# 'Addictive Score' Prediction
 
 Project Overview : This project focuses on predicting social media addictiveness scores using data analytics and machine learning techniques. The objective is to model the relationship between user behavior attributes such as usage duration, sleep patterns, demographics, and platform preferences to estimate an overall addictiveness score. The project is implemented as a Jupyter Notebook–based analytical workflow, covering data preprocessing, exploratory analysis, model training, and performance evaluation.
 
